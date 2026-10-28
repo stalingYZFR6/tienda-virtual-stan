@@ -7,12 +7,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyD5NmSn1Uuz3Ny_sQzjphccqIoGQQ93FYc",
-  authDomain: "tiendavirtual-ffba3.firebaseapp.com",
-  projectId: "tiendavirtual-ffba3",
-  storageBucket: "tiendavirtual-ffba3.firebasestorage.app",
-  messagingSenderId: "471638311650",
-  appId: "1:471638311650:web:7d35b47bf0d48fc44194bb"
+  apiKey: "AIzaSyARZ_JliN4Err5XZ-MT9GJgSTqLlqFT3wA",
+  authDomain: "tiendavirtual01-37586.firebaseapp.com",
+  projectId: "tiendavirtual01-37586",
+  storageBucket: "tiendavirtual01-37586.firebasestorage.app",
+  messagingSenderId: "531805503131",
+  appId: "1:531805503131:web:98ff943d14fa8a1f8a503e"
 };
 
 // Initialize Firebase
